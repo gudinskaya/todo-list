@@ -1,4 +1,4 @@
-# todo-list
+# Todo-list
 It has 3 pages:
 - todo-list
 - page with some text
